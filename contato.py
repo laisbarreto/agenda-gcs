@@ -1,3 +1,6 @@
 class Contato():
     def __init__(self):
-        pass
+        self.nome = ""
+        self.sobrenome = ""
+        self.telefone = ""
+        self.endereco = ""
